@@ -19,6 +19,8 @@ I also created the text and all of the graphics and art for the project. Includi
 
 Download available on my [itch.io](https://bluellama.itch.io/starfall-chapter-1)
 
+---
+
 # 2020
 ## Divergence
 <img src="images/divergence.jpg?raw=true"/>
@@ -29,64 +31,75 @@ A stealth/puzzle game where time itself is tied to the motion of your throwing k
 
 Key Developments:
 * A system for rewinding time and the world around the player
-..* Enemy AI that can be rewound to any point and resume what it was doing.
-..* Efficiently logging data by only storing changes that cannot be interpolated.
+ * Enemy AI that can be rewound to any point and resume what it was doing.
+ * Efficiently logging data by only storing changes that cannot be interpolated.
 
 ---
+
 ## A Night in Guntown
 <img src="images/guntown.png?raw=true"/>
 
-Small local-coop shoot-out game made with a group of 5 friends during lockdown.
+Small local-coop shoot-out game made with a group of 5 friends during lockdown.  
 I led the team and provided most of the code.
 
 Made for Major Jam: Isolation
 
+
+---
 # 2019
 
 
+## Experimenting with World Map Generation
 
+<img src="images/map.png?raw=true"/>
 
+I developed a library for procedurally generating world maps.
+* Uses a simplified tectonic model
+* Fast enough to be used at runtime on mobile devices
+
+---
 # 2018
 ## A System for the Procedural Generation of 3D City Environments
 
+<img src="images/city.png?raw=true"/>
+
 My A-Level Computer Science coursework.
 
+
+---
 # Older
+
 ### Not completely representative of me now, but I'm still proud of it.
 
 ## 2017
+
 ### The Last Miner
 <img src="images/tlm.jpg?raw=true"/>
 Made in 48 hours for Ludum Dare 39
-Trapped in an asteroid, with no chance of escape, finding power is your only chance of survival.
+
+Trapped in an asteroid, with no chance of escape, finding power is your only chance of survival.  
 Placed 13th (of 988 submissions) in the Theme category.
+
 Developed Solo.
 
 Available at my [itch.io](https://bluellama.itch.io/the-last-miner)
+
+---
+
 ### An Intergalactic Quest for Interior Walls
 <img src="images/iqiw.PNG?raw=true"/>
 Made in 48 hours for Ludum Dare 37
 
-I led a small team of my friends to make this little puzzle game over a weekend.
-I did all of the programming for the project.
+I made this bizarre little puzzle game over a weekend with a little help from a few friends.
+
+Subdivide space ships with interior walls to ensure that each of the strange coloured blobs is in a colour-coded room.
+
+---
 
 ### Naumachia
 <img src="images/naumachia.jpg?raw=true"/>
 Made for Ludum Dare 36
 
 I led a small team of my friends to make this game based on an [Ancient Greek form of entertainment](https://en.wikipedia.org/wiki/Naumachia)
+
 I was the sole programmer on the project.
-
-##2016
-
-# 2017 (Old stuff, not my best work, but I'm still proud of it)
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
