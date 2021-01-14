@@ -15,7 +15,7 @@ I designed and implemented some of the major systems:
 * Branching narrative system
 * Obstacle aware-AI for physics based single-thruster AI ships
 
-I also created the text and all of the graphics and art for the project. Including generative sprites made with [Processing](https://processing.org/).
+I also created the story and all of the graphics and art for the project. Including generative sprites made with [Processing](https://processing.org/).
 
 Download available on my [itch.io](https://bluellama.itch.io/starfall-chapter-1)
 
