@@ -13,7 +13,7 @@ University of Southampton coursework project. Developed in around 2 weeks with I
 I designed and implemented some of the major systems:
 * Robust interactive dialogue system
 * Branching narrative system
-* Obstacle aware-AI ships
+* Obstacle aware-AI for physics based single-thruster AI ships
 
 I also created the text and all of the graphics and art for the project. Including generative sprites made with [Processing](https://processing.org/).
 
