@@ -68,6 +68,13 @@ My A-Level Computer Science coursework.
 * Subdivides enclosed areas into buildings
 * Later developed to include a simple driving simulation
 
+# 2017
+## Knowledge is Power
+<img src="images/knowledge-is-power.jpg?raw=true"/>
+
+I provided additional programming work for this PS4 PlayLink quiz game at [Second Impact Games](https://www.secondimpactgames.com/)
+
+I helped work on the AR face detection system for the mobile companion app. I also helped with a couple of smaller projects while I was there.
 
 ---
 # Older
