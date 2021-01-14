@@ -10,7 +10,7 @@
 
 University of Southampton coursework project. Developed in around 2 weeks with Istvan Zeno Hevesi for COMP3218.
 
-I designed an implemented some of the major systems:
+I designed and implemented some of the major systems:
 * Robust interactive dialogue system
 * Branching narrative system
 * Obstacle aware-AI ships
@@ -72,9 +72,9 @@ My A-Level Computer Science coursework.
 ## Knowledge is Power
 <img src="images/knowledge-is-power.jpg?raw=true"/>
 
-I provided additional programming work for this PS4 PlayLink quiz game at [Second Impact Games](https://www.secondimpactgames.com/)
+I provided additional programming work for this PS4 PlayLink quiz game at [Second Impact Games](https://www.secondimpactgames.com/).
 
-I helped work on the AR face detection system for the mobile companion app. I also helped with a couple of smaller projects while I was there.
+I helped work on the AR face detection system for the mobile companion app. And also helped with a couple of smaller projects while I was there.
 
 ---
 # Older
@@ -84,7 +84,7 @@ I helped work on the AR face detection system for the mobile companion app. I al
 ## 2017
 
 ### The Last Miner
-<img src="images/tlm.jpg?raw=true"/>
+<img src="images/tlm.JPG?raw=true"/>
 Made in 48 hours for Ludum Dare 39
 
 Trapped in an asteroid, with no chance of escape, finding power is your only chance of survival.  
