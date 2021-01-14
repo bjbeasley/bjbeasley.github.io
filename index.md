@@ -23,7 +23,7 @@ Download available on my [itch.io](https://bluellama.itch.io/starfall-chapter-1)
 
 # 2020
 ## Divergence
-<img src="images/divergence.jpg?raw=true"/>
+<img src="images/divergence.JPG?raw=true"/>
 
 University of Southampton coursework project. Developed in around 2 weeks with Daniel Best for COMP3218.
 
@@ -48,14 +48,14 @@ Made for Major Jam: Isolation
 ---
 # 2019
 
-
 ## Experimenting with World Map Generation
 
 <img src="images/map.png?raw=true"/>
 
-I developed a library for procedurally generating world maps.
+I developed a library for procedurally generating fantasy world maps.
 * Uses a simplified tectonic model
 * Fast enough to be used at runtime on mobile devices
+* Spherical (mathematically cylindrical, but it accounts for map projection)
 
 ---
 # 2018
@@ -64,6 +64,9 @@ I developed a library for procedurally generating world maps.
 <img src="images/city.png?raw=true"/>
 
 My A-Level Computer Science coursework.
+* Organically generates road networks using a variety of growth patterns
+* Subdivides enclosed areas into buildings
+* Later developed to include a simple driving simulation
 
 
 ---
