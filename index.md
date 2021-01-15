@@ -13,7 +13,7 @@ University of Southampton coursework project. Developed in around 2 weeks with I
 I designed and implemented some of the major systems:
 * Robust interactive dialogue system
 * Branching narrative system
-* Obstacle aware-AI for physics based single-thruster AI ships
+* Obstacle-aware AI for physics-based single-thruster AI ships
 
 I also created the story and all of the graphics and art for the project. Including generative sprites made with [Processing](https://processing.org/).
 
@@ -34,6 +34,13 @@ Key Developments:
  * Enemy AI that can be rewound to any point and resume what it was doing.
  * Efficiently logging data by only storing changes that cannot be interpolated.
 
+---
+
+##Writers' room
+<img src="images/writersroom.JPG?raw=true"/>
+
+During lockdown my friends often struggled to find things we could all play, so I developed a few games that worked as discord bots.
+My favourite of which is Writers Room. An extension of the classic 1 word story game, players work together to create a prompt and then write scenes for a movie based upon that prompt. The game is designed to epitomize the saying "a camel is a horse designed by a committee".
 ---
 
 ## A Night in Guntown
@@ -112,4 +119,4 @@ Made for Ludum Dare 36
 
 I led a small team of my friends to make this game based on an [Ancient Greek form of entertainment](https://en.wikipedia.org/wiki/Naumachia)
 
-I was the sole programmer on the project.
+I was the handled all the programming for the project.
