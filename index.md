@@ -36,11 +36,12 @@ Key Developments:
 
 ---
 
-##Writers' room
+## Writers' room
 <img src="images/writersroom.JPG?raw=true"/>
 
 During lockdown my friends often struggled to find things we could all play, so I developed a few games that worked as discord bots.
 My favourite of which is Writers Room. An extension of the classic 1 word story game, players work together to create prompts and then write scenes for a movie based upon those prompts. The game is designed to epitomize the saying "a camel is a horse designed by a committee" with very funny consequences.
+
 ---
 
 ## A Night in Guntown
