@@ -2,12 +2,14 @@ title: Ben Beasley # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Computer science student and hobbyist game developer in the UK.
+  Programmer at Second Impact Games in Brighton, UK.
   <br><br>
-  Currently studying at the University of Southampton
+  Studied Computer Science at the University of Southampton
   <br><br>
   <h3>Contact</h3>
   <a href="mailto:benjaminjbeasley@gmail.com">benjaminjbeasley@gmail.com</a>
   
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
