@@ -10,9 +10,9 @@
 
 Since graduating from Southampton, I've been working at [Second Impact Games](https://www.secondimpactgames.com/) on the upcoming Super Crazy Rhythm Castle [(trailer)](https://www.youtube.com/watch?v=fiNxs6CEwQ0). A twist on rhythm games that mixes in character-based co-op adventuring for chaotically fun results.
 
-It's a small team, so I had the opportunity to contribute in a wide variety of ways:
+It's a small team, so I've had the opportunity to contribute in a wide variety of ways:
 * Gameplay programming - working with the art team to realize some very fun and unconventional level designs (including the game's grand finale!)
-  * Finding the answers to important questions like "How many chilli pepper-filled explosives should the dancing fish drop?"
+  * Finding the answers to important questions like "How many chilli pepper-filled explosives should a dancing fish drop?"
 * Designing, implementing and/or optimising of several of the game's core systems - including plenty of work on network synchronisation for the game's online multiplayer
 * Significant contributions to the cross-platform release of the game
   * Implementing the vast majority of Xbox One/Series specific support
@@ -156,4 +156,4 @@ Made for Ludum Dare 36
 
 I led a small team of my friends to make this game based on an [Ancient Greek form of entertainment](https://en.wikipedia.org/wiki/Naumachia)
 
-I was the handled all the programming for the project.
+I was responsible for all programming in the project.
